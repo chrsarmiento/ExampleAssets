@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My first App</string>
+    <string name="my_image_description" translatable="false">Logo Desafio Latam</string>
+    <string name="saludo">Welcome to my app!!!</string>
+    <string name="hint_name">What\'s your name?</string>
+    <string name="press_btn">Click Me!!</string>
+</resources>

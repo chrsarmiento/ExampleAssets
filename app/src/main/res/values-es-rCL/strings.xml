@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi primera App</string>
+    <string name="saludo">Bienvenido a mi App</string>
+    <string name="hint_name">Cómo te llamas?</string>
+    <string name="press_btn">Presioname!!</string>
+</resources>
